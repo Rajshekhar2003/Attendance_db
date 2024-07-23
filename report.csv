@@ -1,0 +1,16 @@
+Session:,"2024 ODD SEMESTER"
+Course:,"CO215-Design and Analysis of Algorithm"
+Faculty:,Pallabi
+total,2
+start,2024-07-23
+end,2024-07-24
+slno,roll_no,name,2024-07-23,2024-07-24,attended,percent
+1,CS21002,"Isabella Rodriguez",A,A,0,0
+2,CS21003,"Ethan Martinez",P,P,2,100
+3,CS21005,"Mason Lopez",P,A,1,50
+4,CS21010,"Emily Brown",A,A,0,0
+5,IT21001,"Alexy Johnson",P,P,2,100
+6,IT21002,"Emily Smith",A,A,0,0
+7,IT21003,"Ryan Thompson",P,P,2,100
+8,IT21006,"Olivia Jones",P,P,2,100
+9,IT21012,"Ava Anderson",A,P,1,50
